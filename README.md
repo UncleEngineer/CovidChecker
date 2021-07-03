@@ -1,5 +1,12 @@
 # covidchecker
 
+วันนี้เขียนแอพ Flutter อะไรดี?
+ตอน: แอพเช็คยอดโควิด
+
+ไลฟ์นี้ลุงสอนเขียนแอพ Flutter ที่มีการเชื่อมต่อกับ API ภายนอก ในวันนี้จะใช้ API เช็คยอด Covid-19 แล้วนำมาแสดงผลบนหน้าจอหลักของแอพพลิเคชั่น มีปุ่มรีเฟรชยอดล่าสุด
+
+Youtube: https://youtu.be/lAI8ZhX3dp8
+
 A new Flutter project.
 
 ## Getting Started
